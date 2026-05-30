@@ -1,0 +1,13 @@
+../Core/Src/main.c:102:5:_write	24	static
+../Core/Src/main.c:112:24:u16	16	static
+../Core/Src/main.c:115:23:s16	16	static
+../Core/Src/main.c:118:24:u64	144	static
+../Core/Src/main.c:131:23:s64	40	static
+../Core/Src/main.c:143:5:main	48	static
+../Core/Src/main.c:470:6:SystemClock_Config	128	static
+../Core/Src/main.c:523:6:disp	16	static
+../Core/Src/main.c:533:6:e32_waitAUX	24	static
+../Core/Src/main.c:547:6:e32_setMode	16	static
+../Core/Src/main.c:564:9:e32_configureModule	24	static
+../Core/Src/main.c:617:5:e32_Receive	40	static
+../Core/Src/main.c:652:6:Error_Handler	4	static,ignoring_inline_asm
